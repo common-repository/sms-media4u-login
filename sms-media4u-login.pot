@@ -1,0 +1,91 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SMS Media4u Login\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-28 23:39+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: sms-media4u-login.php:55
+msgid "SMS Media4u Login"
+msgstr ""
+
+#: sms-media4u-login.php:59 sms-media4u-login.php:226
+msgid "In order to use SMS Media4u Login, you have to purchase the authentication key at the following site."
+msgstr ""
+
+#: sms-media4u-login.php:64 sms-media4u-login.php:203
+msgid "SMS Media4u Login Options"
+msgstr ""
+
+#: sms-media4u-login.php:68
+msgid "Tel"
+msgstr ""
+
+#: sms-media4u-login.php:72
+msgid "Use"
+msgstr ""
+
+#: sms-media4u-login.php:137
+msgid "<strong>Error</strong>: The verification code appears to be invalid. Please input it again."
+msgstr ""
+
+#: sms-media4u-login.php:140
+msgid "SMS Authentication"
+msgstr ""
+
+#: sms-media4u-login.php:148
+msgid "A verification code has been sent to the phone number associated with your account."
+msgstr ""
+
+#: sms-media4u-login.php:150
+msgid "Code"
+msgstr ""
+
+#: sms-media4u-login.php:155
+msgid "Resend the code"
+msgstr ""
+
+#: sms-media4u-login.php:199
+msgid "Options updated."
+msgstr ""
+
+#: sms-media4u-login.php:213
+msgid "Username"
+msgstr ""
+
+#: sms-media4u-login.php:215
+msgid "Please input the username provided by Media4u."
+msgstr ""
+
+#: sms-media4u-login.php:218
+msgid "Password"
+msgstr ""
+
+#: sms-media4u-login.php:220
+msgid "Please input the password provided by Media4u."
+msgstr ""
+
+#: sms-media4u-login.php:224
+msgid "Authentication Key"
+msgstr ""
+
+#: sms-media4u-login.php:230
+msgid "Update Options &raquo;"
+msgstr ""
+
+#: sms-media4u-login.php:247
+#, php-format
+msgid "Validation Code is %s."
+msgstr ""
